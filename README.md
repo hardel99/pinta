@@ -1,4 +1,5 @@
 # pinta
+<<<<<<< HEAD
 
 A new Flutter project.
 
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+MP3 local player developed with flutter
+There may be some issues on iOS but we still woking on it :)
+>>>>>>> 4a96463aed2f96b0fa147ddf39fb2134cfa5fde1
